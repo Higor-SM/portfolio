@@ -24,12 +24,19 @@
 Projeto CPU - Centro de Programação Universitário
 
 #### Objetivo do projeto -
-Desenvolver um site de e-commerce de materiais didáticos, agregando valores ao cliente de acordo com as regras de negócios.
-
-#### Descrição do projeto -
-O projeto tinha como objetivo a criação de um site de venda de conteúdos na área da tecnologia e informação. O trabalho visava a interação dos alunos com o cliente, no qual os mesmos possuíam acesso as regras do projeto que foram definidas pelo cliente, para assim atender suas demandas e necessidades.
+Desenvolvimento de um e-commerce de materiais didáticos. [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/cpusfatec)
 
 ### Em 2021-1
 
 #### *Parceiro Acadêmico: GSW*
+Projeto Dashboard
 
+#### Objetivo do projeto -
+Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos. [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/DashBoard)
+
+## Meus Principais Conhecimentos
+Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira. 
+
+## Contatos
+[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/higor-mariano-5587b81b8/)
