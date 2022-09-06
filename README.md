@@ -21,18 +21,18 @@
 ### Em 2020-2
 
 #### *Parceiro Acadêmico: Fatec*
-Projeto CPU - Centro de Programação Universitário
+Projeto CPU - Centro de Programação Universitário [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/cpusfatec)
 
 #### Objetivo do projeto -
-Desenvolvimento de um e-commerce de materiais didáticos. [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/cpusfatec)
+Desenvolvimento de um e-commerce de materiais didáticos.
 
 ### Em 2021-1
 
 #### *Parceiro Acadêmico: GSW*
-Projeto Dashboard
+Projeto Dashboard [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/DashBoard)
 
 #### Objetivo do projeto -
-Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos. [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/DashBoard)
+Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos.
 
 ## Meus Principais Conhecimentos
 Apresente seus principais conhecimentos. Foque nos conhecimentos que possui maior domínio e que deseja desenvolver durante sua carreira. 
