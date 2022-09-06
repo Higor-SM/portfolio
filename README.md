@@ -27,7 +27,7 @@
 
 #### *Parceiro Acadêmico: Fatec*
 Projeto CPU - Centro de Programação Universitário
-[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/cpusfatec)
+[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%201)
 
 #### Objetivo do projeto -
 Desenvolvimento de um e-commerce de materiais didáticos.
@@ -36,7 +36,7 @@ Desenvolvimento de um e-commerce de materiais didáticos.
 
 #### *Parceiro Acadêmico: GSW*
 Projeto Dashboard
-[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/cpusfatec/DashBoard)
+[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%202)
 
 #### Objetivo do projeto -
 Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos.
