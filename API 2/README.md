@@ -2,6 +2,7 @@
 
 #### *Parceiro Acadêmico: GSW*
 Projeto Dashboard
+![Link do Projeto](https://github.com/cpusfatec/DashBoard)
 
 #### Objetivo do projeto -
 Criar uma interface que demonstrasse o status de progressão de projetos internos

@@ -2,6 +2,7 @@
 
 #### *Parceiro Acadêmico: Fatec*
 Projeto CPU - Centro de Programação Universitário
+![Link do Projeto](https://github.com/cpusfatec/cpusfatec)
 
 #### Objetivo do projeto -
 Desenvolver um site de e-commerce de materiais didáticos, agregando valores ao cliente de acordo com as regras de negócios.
