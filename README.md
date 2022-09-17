@@ -15,15 +15,15 @@
 ## Introdução  
 <div>
 	<img src="https://avatars.githubusercontent.com/u/72944799?v=4" alt="Foto de perfil" width=150 height=150/>
-	<p>Estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.</p>
+	<p>Meu nom é Higor Mariano, sou estudante de Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal. Atualmente focado nas áreas de front-end, e me aventurando em desenvolvimento mobile com react-native, meu primeiro contato com programação foi no Ensino Médio com projetos de Arduino, foi onde descobri minha vocação para a área de TI. Meus hobbies são escutar musicas, meus estilos variam entre Rock e Indie, e jogar, tanto jogos eletronicos, Dark Souls, LoL, e Valorant, quanto RPG de cartas, como Magic The Gathering</p>
 </div>
 
-## Sobre o Autor:
-<div>
-    <p>Meu primeiro contato com programação foi no Ensino Médio com projetos de Arduino, foi onde descobri minha vocação para a área de TI</p>
-</div>
 
-### Em 2020-2
+### Projetos: 
+- CPU - Centro de Programação Universitário - 1º Semestre (2020-2)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%201)
+- Projeto Dashboard (2021-1)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%202)
+- IONIC-Health-Project (2021-2)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%203)
+- TecSoja (2022-1)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%204)
 
 #### *Parceiro Acadêmico: Fatec*
 Projeto CPU - Centro de Programação Universitário
@@ -35,19 +35,20 @@ Desenvolvimento de um e-commerce de materiais didáticos.
 ### Em 2021-1
 
 #### *Parceiro Acadêmico: GSW*
-Projeto Dashboard
+-Projeto Dashboard
 [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%202)
 
 #### Objetivo do projeto -
-Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos.
+-Criação de uma Dashboard de fácil entendimento que demonstrasse os status e informações da procedencia de projetos internos.
 
 ## Meus Principais Conhecimentos
-HTML - Sei fazer com autonomia 
-CSS - Sei fazer com autonomia 
-JavaScript - Sei fazer com ajuda
-Python - Sei fazer com ajuda
-React Native - Sei fazer com ajuda
+-HTML - Sei fazer com autonomia 
+-CSS - Sei fazer com autonomia 
+-JavaScript - Sei fazer com ajuda
+-Python - Sei fazer com ajuda
+-React Native - Sei fazer com ajuda
 
 ## Contatos
+[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:higormariano10@gmail.com" />]
 [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/higor-mariano-5587b81b8/)
