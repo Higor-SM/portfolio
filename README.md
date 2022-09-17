@@ -20,10 +20,10 @@
 
 
 ### Projetos: 
-- CPU - Centro de Programação Universitário - 1º Semestre (2020-2)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%201)
-- Projeto Dashboard (2021-1)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%202)
-- IONIC-Health-Project (2021-2)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%203)
-- TecSoja (2022-1)[<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%204)
+- CPU - Centro de Programação Universitário(2020-2) [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%201)
+- Projeto Dashboard(2021-1) [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%202)
+- IONIC-Health-Project(2021-2) [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%203)
+- TecSoja(2022-1) [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM/portfolio/tree/master/API%204)
 
 #### *Parceiro Acadêmico: Fatec*
 Projeto CPU - Centro de Programação Universitário
@@ -49,6 +49,6 @@ Desenvolvimento de um e-commerce de materiais didáticos.
 -React Native - Sei fazer com ajuda
 
 ## Contatos
-[<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:higormariano10@gmail.com" />]
+
 [<img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Higor-SM)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/higor-mariano-5587b81b8/)
