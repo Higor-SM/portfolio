@@ -2,7 +2,7 @@
 
 ### *Parceiro Acadêmico: GSW*
 
-- A GSW é uma empresa fornecedora de produdos de software voltados para a gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia.
+- A GSW é uma empresa fornecedora de produtos de software voltados para a gestão empresarial que auxiliam os clientes a ter um melhor controle de suas atividades, reduzindo custos e aumentando a produtividade nos processos do dia a dia.
 
 ### Objetivo do projeto:
 - Criar uma interface que demonstrasse o status de progressão de projetos internos
@@ -16,7 +16,7 @@
     <td><img src="https://github.com/cpusfatec/DashBoard/blob/main/SPRINT%204/GIF-PROJETO-SPRINT-4.gif"/></td>
   </tr>
   <tr>
-    <td>Gif da nossa plataforma em execução, começamos com login, logo após temos o painel de status dos projetos, que são exibidos por meio de um gráfico de pizza, tendo sequência com outras exibições, da quantidade de projetos por colaboradores e por empresas, e exibindo se foram finalizados ou estão em andamento. Finalzando com uma tela busca de projetos, tendo possíbilidade de pesquisar por nome da empresa, nome do colaborador, e filtrar como finalizado ou em andamento</td>
+    <td>Gif da nossa plataforma em execução, começamos com login, logo após temos o painel de status dos projetos, sendo exibidos por meio de um gráfico de pizza, tendo sequência com outras exibições, da quantidade de projetos por colaboradores e por empresas, e exibindo se foram finalizados ou estão em andamento. Finalizando com uma tela busca de projetos, tendo possibilidade de pesquisar por nome da empresa, nome do colaborador, e filtrar como finalizado ou em andamento</td>
   </tr>
 </table>
 
@@ -52,9 +52,7 @@
 
 ### Contribuições Pessoais:
 
-Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entregar resultados dentro dos prazos previamente estabelecidos, minhas contribuições focaram na estruturação e estilização da plataforma, utilizando HTML e CSS, além de criar as artes utilizadas e, com auxilio de colegas de equipe, implementar gráficos dinâmicos utilizando JavaScript. Fui responsável também por documentar o processo no GitHub.
-
-- Implementação de gráficos com JS.
+Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entregar resultados dentro dos prazos previamente estabelecidos, minhas contribuições focaram na estruturação e estilização da plataforma, utilizando HTML e CSS, além de criar as artes utilizadas e, com auxílio de colegas de equipe, implementar gráficos dinâmicos utilizando JavaScript. Fui responsável também por documentar o processo no GitHub.
 
 ### Hard Skills:
 
@@ -68,10 +66,10 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 - Pesquisar e implementar bibliotecas.
 
-- Criar artes simples para personaliar as páginas.
+- Criar artes simples para personalizar as páginas.
 
-- Trabalho em equipe, essencial para a armonização do projeto, foi o que nos proporcionou a fazer boas entregas.
+- Trabalho em equipe, essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas.
 
-- Estudar mais aprofundamente, ir além do ensino básico.
+- Estudar de maneira, ir além do ensino básico.
 
 - Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
