@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>Gif onde mostramos a funcionalidade de carregar materiais no site, onde logamos como editor de materiais, da matéria especifica, neste caso, Arquitetura e Organização de Computadores, acessamos a área "Materiais", e escolhemos um arquivo já existente, sendo ele um PDF, e enviamos para o site, o arquivo vai ser upado e armazenado na plataforma, e poderá ser acessado pelos alunos</td>
-    <td>Gif simulando uma compra de material por meio de um cartão de crédito, neste caso um cartão virtual, e após finalizar a compra, demonstra o acesso do material</td>
+    <td>Gif simulando uma compra de material por meio de um cartão de crédito, neste caso um cartão virtual, e após finalizar a compra, demonstra o acesso ao material</td>
   </tr>
  </table>
 
