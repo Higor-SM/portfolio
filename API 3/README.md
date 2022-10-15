@@ -81,7 +81,7 @@
 
 ### Contribuições Pessoais:
 
-Neste projeto f
+Neste projeto fui Product Owner, fui responsável por definir as funcionalidades do produto através do Backlog, priorizar as funcionalidades e prioridades a cada Sprint, conforme a necessidade e sempre de comforme o valor de negócio, fazer contato com o cliente para negociar as entregas e demonstrar nossos planejamentos. Além disso, fui responsável pela estilização final da plataforma, utilizando HTML e CSS. 
 
 ### Hard Skills:
 
@@ -89,8 +89,10 @@ Neste projeto f
 
 **CSS** → Sei fazer com autonomia.
 
-**JavaScript** → Sei fazer com ajuda.
-
 ### Soft Skills:
 
--
+- Entender das regras de negócio, ter ciência do que seria uma entrega de valor e se meu grupo conseguiria desenvolver no limite de tempo.
+- Visão geral do produto, ter visão do que o cliente almeja, e fazer uma jornada com entregas de valor
+- Priorização das entregas, definir e priorizar cada item do Backlog de maneira esclarecida e com tempo estimado.
+
+ -- Tive dificuldade no começo da primeira Sprint para entender como eu poderia apresentar o valor nas entregas, mas consegui me resolver, com ajuda dos professores, rápido o suficiente para não prejudicar a entrega.
