@@ -64,7 +64,7 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 ### Soft Skills:
 
-- Pesquisar e implementar bibliotecas.
+- Pesquisar e implementar bibliotecas. No caso, ainda não tinha experiência com bibliotecas de gráficos
 
 - Criar artes simples para personalizar as páginas.
 

@@ -1,7 +1,6 @@
 ## Em 2021-2
 
 ### *Parceiro Acadêmico: IONIC Health*
-
 - A IONIC Health é uma empresa especializada em transformação digital para a saúde, desenvolvendo soluções que automatizam, monitoram e teleoperam equipamentos clínicos.
 
 ### Objetivo do projeto:
@@ -18,8 +17,8 @@
     <td><img src="https://github.com/cpusfatec/IONIC-Health-Project/blob/main/Imagens/GIF%20cadastro.gif" width=460 height=280></td>
   </tr>
   <tr>
-    <td>cadastro, listagem e pesquisa de clientes Business to Consumer, envolve transações realizadas via internet entre empresas e consumidores, neste caso, consumidores ligados a areá de medicina</td>
-    <td>cadastro, listagem e pesquisa de clientes Business to Business, o termo utilizado para denominar negociações realizadas entre empresas.</td>
+    <td>Cadastro, listagem e pesquisa de clientes Business to Consumer, envolve transações realizadas via internet entre empresas e consumidores, neste caso, consumidores ligados a areá de medicina</td>
+    <td>Cadastro, listagem e pesquisa de clientes Business to Business, o termo utilizado para denominar negociações realizadas entre empresas.</td>
   </tr>
 </table>
 
@@ -29,8 +28,8 @@
     <td><img src="https://github.com/cpusfatec/IONIC-Health-Project/blob/main/Imagens/GIF%20importação.gif" width=460 height=280></td>
   </tr>
   <tr>
-    <td>demonstração do pipeline, demonstrado em um gráfico de funil com suas funcionalidades e funções, podendo fazer download de suas informações tanto em XLS, quanto PNG</td>
-    <td>funcionalidade de importação da plataforma, mostrando upload e download de arquivos no formato XLSX</td>
+    <td>Demonstração do pipeline, demonstrado em um gráfico de funil com suas funcionalidades e funções, podendo fazer download de suas informações tanto em XLS, quanto PNG</td>
+    <td>Funcionalidade de importação da plataforma, mostrando upload e download de arquivos no formato XLSX</td>
   </tr>
 </table>
 
@@ -40,7 +39,7 @@
     <td><img src="https://github.com/cpusfatec/IONIC-Health-Project/blob/main/Imagens/gerente.gif" width=460 height=280></td>
   </tr>
   <tr>
-    <td>gif que demonstra a plataforma em sua etapa final, já estilizada e formatada.</td>
+    <td>Gif que demonstra a plataforma em sua etapa final, já estilizada e formatada.</td>
   </tr>
  </table>
 </div>
@@ -95,4 +94,4 @@ Neste projeto fui Product Owner, fui responsável por definir as funcionalidades
 - Visão geral do produto, ter visão do que o cliente almeja, e fazer uma jornada com entregas de valor
 - Priorização das entregas, definir e priorizar cada item do Backlog de maneira esclarecida e com tempo estimado.
 
-–→ Tive dificuldade no começo da primeira Sprint para entender como eu poderia apresentar o valor nas entregas, mas consegui me resolver, com ajuda dos professores, rápido o suficiente para não prejudicar a entrega.
+→ Tive dificuldade no começo da primeira Sprint para entender como eu poderia apresentar o valor nas entregas, mas consegui me resolver, com ajuda dos professores, rápido o suficiente para não prejudicar a entrega.

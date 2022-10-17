@@ -17,7 +17,7 @@
     <td><img src="https://github.com/cpusfatec/cpusfatec/blob/main/Sprint%202/GIF%20DE%20COMPRAS.gif" width=460 height=280></td>
   </tr>
   <tr>
-    <td>Gif onde mostramos a funcionalidade de carregar materiais no site, logamos como editor de materiais da matéria especifica, neste caso, Arquitetura e Organização de Computadores, acessamos a área "Materiais" e escolhemos um arquivo já existente, sendo ele um PDF, enviamos para o site, o arquivo vai ser upado e armazenado na plataforma, e poderá ser acessado pelos alunos</td>
+    <td>Gif onde mostramos a funcionalidade de carregar materiais no site. Logamos como editor de materiais da matéria especifica, neste caso, Arquitetura e Organização de Computadores, acessamos a área "Materiais" e escolhemos um arquivo já existente, sendo ele um PDF, enviamos para o site, o arquivo vai ser upado e armazenado na plataforma, e poderá ser acessado pelos alunos</td>
     <td>Gif simulando uma compra de material por meio de um cartão de crédito, neste caso um cartão virtual, e após finalizar a compra, demonstra o acesso ao material</td>
   </tr>
  </table>
