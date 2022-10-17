@@ -95,4 +95,4 @@ Neste projeto fui Product Owner, fui responsável por definir as funcionalidades
 - Visão geral do produto, ter visão do que o cliente almeja, e fazer uma jornada com entregas de valor
 - Priorização das entregas, definir e priorizar cada item do Backlog de maneira esclarecida e com tempo estimado.
 
- -- Tive dificuldade no começo da primeira Sprint para entender como eu poderia apresentar o valor nas entregas, mas consegui me resolver, com ajuda dos professores, rápido o suficiente para não prejudicar a entrega.
+–→ Tive dificuldade no começo da primeira Sprint para entender como eu poderia apresentar o valor nas entregas, mas consegui me resolver, com ajuda dos professores, rápido o suficiente para não prejudicar a entrega.
