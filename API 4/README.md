@@ -13,8 +13,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/entrega-02.gif" width=460 height=280></td>
-    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/cadastroTalhoes.gif" width=460 height=280></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/entrega-02.gif" ></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/cadastroTalhoes.gif" ></td>
   </tr>
   <tr>
     <td>Gif do app em execução, com login, demonstração de cadastros, visualização de estatísticas</td>
