@@ -19,7 +19,7 @@
 #### (2021-1) Criar uma interface que demonstrasse o status de progressão de projetos internos
 - Projeto Dashboard [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%202)
 #### (2021-2)
-- IONIC-Health-Project [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/cpusfatec/IONIC-Health-Project)
+- IONIC-Health-Project [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%203)
 #### (2022-1)
 - TecSoja [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/ThomasPalma1/FatecAPI-04)
 
