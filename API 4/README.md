@@ -17,7 +17,8 @@
     <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/cadastroTalhoes.gif" ></td>
   </tr>
   <tr>
-    <td>Gif do app em execução, com login, demonstração de cadastros, visualização de estatísticas</td>
+    <td>Gif do app em execução, com login, demonstração de 
+    cadastros, visualização de estatísticas</td>
     <td>Gif do cadastro de talhões</td>
   </tr>
 </table>
@@ -57,9 +58,16 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 ### Hard Skills:
 
 **React Native** → Sei fazer com ajuda
+**Expo**: Sei fazer com ajuda.
+**JavaScript**: Sei fazer com autonomia.
+**NodeJs**: Sei fazer com ajuda.
 
 ### Soft Skills:
 
-- 
+→ Adaptabilidade
 
-→
+Por contas de imprevistos, como desfalque de integrantes, tivemos que nos adaptar com a nova divisão de tarefas para conseguir fazer as entregas no tempo limite
+
+→ Comunicação
+
+Neste projeto, fiquei responsável pelo frontend, tive que me comunicar com os integrantes responsáveis pelo backend e banco de dados para sincronizar as funcionalidades, tive que exercer da boa comunicação para que houvesse plena compreensão do que eu fiz e do que precisava ser feito a partir disso.
