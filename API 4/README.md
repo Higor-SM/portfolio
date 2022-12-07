@@ -58,8 +58,11 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 ### Hard Skills:
 
 **React Native** → Sei fazer com ajuda.
+
 **Expo** → Sei fazer com ajuda.
+
 **JavaScript** → Sei fazer com autonomia.
+
 **NodeJs** → Sei fazer com ajuda.
 
 ### Soft Skills:
