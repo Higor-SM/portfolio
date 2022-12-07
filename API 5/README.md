@@ -11,7 +11,7 @@
 ### Descrição do projeto:
 - O objetivo era desenvolver um aplicativo que recebe as demandas de obras e manutenção, permitindo uma solicitação mais detalhada e visual realizada pelo solicitante. A solução proposta permite que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização, além da descrição do problema. O aplicativo também prevê o atendimento à LGPD nos tratamentos de dados pessoais,logs de usuários e termos e condições. As obras sendo realizadas na cidade também poderão ser consultadas para facilitar o deslocamento dos cidadãos.
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/home-screen.png" height=500 width=250/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/screen-of-my-occurrences.png" height=500 width=250/></td>
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/second-step-for-occurrence-registration.png.png" height=500 width=250/></td>
      <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/third-step-for-occurrence-registration.png" height=500 width=250/></td>
