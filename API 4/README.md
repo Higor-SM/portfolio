@@ -68,8 +68,8 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 → Adaptabilidade
 
-Por contas de imprevistos, como desfalque de integrantes, tivemos que nos adaptar com a nova divisão de tarefas para conseguir fazer as entregas no tempo limite
+-Por contas de imprevistos, como desfalque de integrantes, tivemos que nos adaptar com a nova divisão de tarefas para conseguir fazer as entregas no tempo limite.
 
-→ Comunicação
+→ Comunicação e Trabalho em equipe
 
-Neste projeto, fiquei responsável pelo frontend, tive que me comunicar com os integrantes responsáveis pelo backend e banco de dados para sincronizar as funcionalidades, tive que exercer da boa comunicação para que houvesse plena compreensão do que eu fiz e do que precisava ser feito a partir disso.
+-Neste projeto, fiquei responsável pelo frontend, tive que me comunicar com os integrantes responsáveis pelo backend e banco de dados para sincronizar as funcionalidades, tive que exercer da boa comunicação para que houvesse plena compreensão do que eu fiz e do que precisava ser feito a partir disso.

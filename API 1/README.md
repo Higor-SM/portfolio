@@ -66,8 +66,14 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por constr
 
 ### Soft Skills
 
-- Trabalho em equipe, essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas.
+→ Trabalho em equipe, Inclusão e Conexão
 
-- Estudar de maneira, ir além do ensino básico.
+-Essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas, cada um se ajudando conforme os conhecimentos que alguns tinham mais facilidade que outros.
 
-- Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
+→ Estudioso
+
+-Como tudo era novo para mim, precisei me aprofundar de maneira eficiente nos estudos de programação.
+
+→ Organização
+
+-Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.

@@ -64,12 +64,15 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 ### Soft Skills:
 
-- Pesquisar e implementar bibliotecas. No caso, ainda não tinha experiência com bibliotecas de gráficos
+→ Trabalho em equipe
 
-- Criar artes simples para personalizar as páginas.
+-Essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas.
 
-- Trabalho em equipe, essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas.
+→ Estudioso
 
-- Estudar de maneira, ir além do ensino básico.
+-Estudar de maneira profunda para aperfeiçoar o que eu já sabia e ir além da minha limitação.
+-Pesquisar e implementar bibliotecas. No caso, ainda não tinha experiência com bibliotecas de gráficos.
 
-- Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
+→ Organização
+
+-Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
