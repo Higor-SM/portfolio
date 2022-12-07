@@ -1,4 +1,4 @@
-## Em 2021-2
+## Em 2022-1
 
 ### *Parceiro Acadêmico: Visiona*
 - A Visiona Tecnologia Espacial é uma joint-venture entre a Embraer Defesa & Segurança e a Telebras, voltada para a integração de sistemas espaciais.
@@ -57,10 +57,10 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 ### Hard Skills:
 
-**React Native** → Sei fazer com ajuda
-**Expo**: Sei fazer com ajuda.
-**JavaScript**: Sei fazer com autonomia.
-**NodeJs**: Sei fazer com ajuda.
+**React Native** → Sei fazer com ajuda.
+**Expo** → Sei fazer com ajuda.
+**JavaScript** → Sei fazer com autonomia.
+**NodeJs** → Sei fazer com ajuda.
 
 ### Soft Skills:
 

@@ -1,6 +1,6 @@
 ## Em 2020-2
 
-### *Parceiro Acadêmico: Fatec*
+### *Parceiro Acadêmico: Interno*
 
 ### Objetivo do projeto -
 

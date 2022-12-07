@@ -21,7 +21,9 @@
 #### (2021-2) Criar um CRM de fácil visualização que armazene informações de clientes atuais/potenciais e entregue relatórios
 - IONIC-Health-Project [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%203)
 #### (2022-1)
-- TecSoja [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/ThomasPalma1/FatecAPI-04)
+- TecSoja [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%204)
+#### (2022-2)
+- Alô Cidadão [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%205)
 
 ## Meus Principais Conhecimentos
 
@@ -29,11 +31,11 @@
 
 * CSS - Sei fazer com autonomia
 
-* JavaScript - Sei fazer com ajuda
+* JavaScript - Sei fazer com autonomia
+
+* React Native - Sei fazer com autonomia
 
 * Python - Sei fazer com ajuda
-
-* React Native - Sei fazer com ajuda
 
 * PHP - Sei fazer com ajuda
 
