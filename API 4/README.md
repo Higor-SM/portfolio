@@ -11,15 +11,14 @@
 ### Descrição do projeto:
 - O objetivo era desenvolver um aplicativo que permitisse que o agricultor pudesse estimar sua produtividade a cada cultivo e produtividade total, além de comparar a produtividade e áreas plantadas nos municípios. O agricultor também tinha uma melhor análise de custos, clima e época ideal de colheita com base na geolocalização do seu cultivo.
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/entrega-02.gif" ></td>
-    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/cadastroTalhoes.gif" ></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/entrega-02.gif" height=500 width=250></td>
+    <td><img src="https://github.com/ThomasPalma1/FatecAPI-04/blob/main/docs/cadastroTalhoes.gif" height=500 width=250></td>
   </tr>
   <tr>
-    <td>Gif do app em execução, com login, demonstração de 
-    cadastros, visualização de estatísticas</td>
-    <td>Gif do cadastro de talhões</td>
+    <td width=300>Gif do app em execução, com login, demonstração de cadastros, visualização de estatísticas</td>
+    <td width=300>Gif do cadastro de talhões</td>
   </tr>
 </table>
 
