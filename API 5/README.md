@@ -6,7 +6,7 @@
 ### Objetivo do projeto:
 - A proposta foi criar um aplicativo para celular que permite o que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização e fazer descrições do problema.
 
-##### Projeto Tec Soja → [Link do Projeto](https://github.com/ThomasPalma1/FatecAPI-05)
+##### Projeto Alô Cidadão → [Link do Projeto](https://github.com/ThomasPalma1/FatecAPI-05)
 
 ### Descrição do projeto:
 - O objetivo era desenvolver um aplicativo que recebe as demandas de obras e manutenção, permitindo uma solicitação mais detalhada e visual realizada pelo solicitante. A solução proposta permite que o cidadão realize a solicitação de obras/manutenção inserindo fotos, endereço ou geolocalização, além da descrição do problema. O aplicativo também prevê o atendimento à LGPD nos tratamentos de dados pessoais,logs de usuários e termos e condições. As obras sendo realizadas na cidade também poderão ser consultadas para facilitar o deslocamento dos cidadãos.
