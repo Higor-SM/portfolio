@@ -68,12 +68,12 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por constr
 
 → Trabalho em equipe, Inclusão e Conexão
 
--Essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas, cada um se ajudando conforme os conhecimentos que alguns tinham mais facilidade que outros.
+- Essencial para a harmonização do projeto, foi o que nos proporcionou a fazer boas entregas, cada um se ajudando conforme os conhecimentos que alguns tinham mais facilidade que outros.
 
 → Estudioso
 
--Como tudo era novo para mim, precisei me aprofundar de maneira eficiente nos estudos de programação.
+- Como tudo era novo para mim, precisei me aprofundar de maneira eficiente nos estudos de programação.
 
 → Organização
 
--Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
+- Gerenciar meu tempo, separação de atividades, identificação de complexidade, para poder medir o esforço e tempo para serem executadas.
