@@ -14,31 +14,24 @@
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/home-screen.png" height=500 width=250/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/screen-of-my-occurrences.png" height=500 width=250/></td>      
+    <td align="center"><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/screen-of-my-occurrences.png" height=500 width=250/></td>
+    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/first-step-for-occurrence-registration.png" height=500 width=250/></td>
   </tr>
     <tr>
     <td width=300> Menu inicial onde o usuário pode escolher uma funcionalidade</td>
      <td width=300> Ocorrências cadastradas</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/first-step-for-occurrence-registration.png" height=500 width=250/></td>
-    <td   align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/second-step-for-occurrence-registration.png.png" height=500 width=250/></td>      
-  </tr>
-   <tr>
      <td>Registro de ocorrência. O usuário escolhe se insere uma imagem da galeria ou tira uma nova foto</td>
-     <td><p>Continuando o registro de ocorrências, o usuário deve inserir as informações sobre a  ocorrência, sendo de forma anônima ou não</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/third-step-for-occurrence-registration.png" height=500 width=250/></td>
-    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/works-in-progress-screen.png" height=500 width=250/></td>      
+    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/second-step-for-occurrence-registration.png.png" height=500 width=250/></td>
+     <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/third-step-for-occurrence-registration.png" height=500 width=250/></td>
+    <td  align="center" width=300><img src="https://raw.githubusercontent.com/ThomasPalma1/portfolio-tg/main/docs/FatecAPI-05/works-in-progress-screen.png" height=500 width=250/></td>
   </tr>
    <tr>
+     <td><p>Continuando o registro de ocorrências, o usuário deve inserir as informações sobre a  ocorrência, sendo de forma anônima ou não</td>
      <td>Para finalizar o registro de ocorrência, o usuário pode utilizar a geolocalização ou pode inserir o endereço manualmente</p></td>
      <td>Lista de obras em andamento e seu status</td>
   </tr>
@@ -83,10 +76,15 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 ### Hard Skills:
 
 **JavaScript** → Sei fazer com autonomia.
+
 **PostgreSQL** → Sei fazer com ajuda.
+
 **MongoDB** → Sei fazer com ajuda.
+
 **React Native** → Sei fazer com autonomia.
+
 **Python** → Sei fazer com ajuda.
+
 **Flask** → Sei fazer com ajuda.
 
 ### Soft Skills:
