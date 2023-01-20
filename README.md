@@ -16,13 +16,13 @@
 ## Projetos: 
 #### (2020-2) Desenvolver um site de e-commerce de materiais didáticos, agregando valores ao cliente de acordo com as regras de negócios
 - CPU - Centro de Programação Universitário [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%201)
-#### (2021-1) Criar uma interface que demonstrasse o status de progressão de projetos internos
+#### (2021-1) Produzir uma interface que demonstrasse o status de progressão de projetos internos
 - Projeto Dashboard [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%202)
 #### (2021-2) Criar um CRM de fácil visualização que armazene informações de clientes atuais/potenciais e entregue relatórios
 - IONIC-Health-Project [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%203)
-#### (2022-1)
+#### (2022-1) Deseonvolver um aplicativo para celular que visava atender demandas do uso da tecnologia para uma melhor produção de soja
 - TecSoja [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%204)
-#### (2022-2)
+#### (2022-2) Criar um aplicativo para celular que permite o que o cidadão realize a solicitação de obras/manutenção
 - Alô Cidadão [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%205)
 
 ## Meus Principais Conhecimentos
