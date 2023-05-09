@@ -24,6 +24,8 @@
 - TecSoja [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%204)
 #### (2022-2) Criar um aplicativo para celular que permite o que o cidadão realize a solicitação de obras/manutenção
 - Alô Cidadão [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%205)
+#### (2023-1) Deseonvolver uma aplicação web utilizando os dados fornecidos via Open Finance, com o proposito de que esses dados sejam apresentados de forma intuitiva e fluida para o usuário
+- Money Mind [<img src="https://github.com/pedrowil12/TG-Portfolio/blob/main/docs/img/github-icon.png" width=15 height=15>_link_](https://github.com/Higor-SM/portfolio/tree/master/API%206)
 
 ## Meus Principais Conhecimentos
 
