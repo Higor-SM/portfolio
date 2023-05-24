@@ -1,7 +1,7 @@
 ## Em 2023-1
 
-### *Parceiro Acadêmico: .*
-- 
+### *Parceiro Acadêmico: uma importante instituição financeira.*
+- A empresa deste projeto é um banco global com ampla experiência no setor financeiro, internacionalmente conhecido e reconhecido por sua competência e inovação, o banco oferece para a sociedade uma extensa quantidade de serviços financeiros.
 
 ### Objetivo do projeto:
 - Desde 2020, o Banco Central do Brasil tem se empenhado em estabelecer uma nova maneira de comunicação entre instituições financeiras, empresas e clientes, denominada Open Finance Brasil. Tradicionalmente, os bancos sempre foram gigantescos cofres quando se trata do armazenamento das informações de seus clientes, porém agora surge um novo paradigma que trará inúmeras oportunidades de integrações e desenvolvimento de novos produtos e serviços. Para avaliar os custos envolvidos em diferentes serviços oferecidos pelos participantes do Open Finance, enfrentamos o desafio de criar uma ferramenta intuitiva e fluida para comparação de preços, utilizando os dados disponibilizados por meio do Open Finance.
@@ -12,7 +12,7 @@
 - Criação de uma single application para análise e comparação de dados de bancos fornecidos via open finance, para prover uma melhor capacidade de análise do mercado por parte do usuário.
 
 <div align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/Dashboard.jpg"  width=500/></td>
     <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/MaioresTarifas.png"  width=500/></td>      
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifas.jpg" width=500/></td>
     <td align="center"><img src="https://github.com/JulianeFreitass/PortfolioTG/blob/main/imgs/PaineldeTarifasDados.jpg" width=500/></td>      
@@ -34,6 +34,7 @@
      <td width=600>Figura 4: Painel de tarifas sem o retorno de dados e com feedback pro usuário</td>
   </tr>
 </table>
+</div>
 
 ## Tecnologias Utilizadas:
 
@@ -82,12 +83,19 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 ### Hard Skills:
 
 **Java** → Sei fazer com autonomia.
+
 **Spring Boot** → Sei fazer com autonomia.
+
 **Python** → Sei fazer com ajuda.
+
 **TypeScript** → Sei fazer com autonomia.
+
 **Vue** → Sei fazer com autonomia.
+
 **MySQL** → Sei fazer com autonomia.
+
 **Scikit-Learn** → Sei fazer com ajuda.
+
 **TensorFlow** → Sei fazer com ajuda.
 
 ### Soft Skills:
@@ -98,4 +106,4 @@ Neste projeto fiz parte do grupo de desenvolvimento. Fui responsável por entreg
 
 → Comunicação e Trabalho em equipe
 
-- Neste projeto, fiquei responsável pelo frontend, tive que me comunicar com os integrantes responsáveis pelo backend e banco de dados para sincronizar as funcionalidades, tive que exercer da boa comunicação para que houvesse plena compreensão do que eu fiz e do que precisava ser feito a partir disso.
+- Neste projeto, fiquei responsável pelo frontend. Tive que me comunicar com os integrantes responsáveis pelo backend e banco de dados para sincronizar as funcionalidades, e exercer da boa comunicação para que houvesse plena compreensão do que eu fiz e do que precisava ser feito a partir disso.
